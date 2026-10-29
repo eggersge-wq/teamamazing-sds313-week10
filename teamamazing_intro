@@ -9,14 +9,16 @@ format: html
 <!-- Everyone: add your name below, one per line. You will likely collide with a teammate
      editing this same list at the same time — that's expected, and it's your first real
      merge conflict. Resolve it together rather than one person overwriting the other. -->
-```
-
-Tyler Allen
-     gabby
-```
+     
+Tyler Allen 
+gabby
 Mya C.
 Saif S. 
 Sai 
+```
+
+```         
+
 
 ## Team Visualizations
 
@@ -33,7 +35,7 @@ library(tidyverse)
 library(palmerpenguins)
 ```
 
-### [Your Name] — [Your Visualization, e.g. "Body Mass by Species"]
+### \[Your Name\] — \[Your Visualization, e.g. "Body Mass by Species"\]
 
 ```{r}
 # Make your agreed-upon plot here, e.g.:
